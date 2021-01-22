@@ -4,7 +4,7 @@ The project is made with visual studio 2019 (community), C# language, and target
 
 The test code is all in `ChristieTests.cs`
 
-Selenium, chromedriver and other packages are included as part of the project directory.
+Selenium, chromedriver and other packages should be automatically pulled in by nuget on build
 Chrome driver package is version 88.0.4324.96, make sure your machine has correct chrome version (chrome 88) installed.
 
 Run the tests by opening project in visual studio, then opening the Test explorer from the test menu in visual studio. Run desired tests from test explorer.
